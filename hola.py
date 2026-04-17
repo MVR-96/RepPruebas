@@ -1,1 +1,1 @@
-print("Hola Mundo, " + "Soy una persona " + "de quito")
+print("Hola Mundo, " + "Soy una persona " + "de Ecuador.")
